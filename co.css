@@ -1,0 +1,52 @@
+
+
+
+
+
+
+
+
+
+
+.nav a:hover{
+    background: #00f2ff;
+    color:#fff;
+    border-radius: 50px;
+    box-shadow: 0 0 5px #cc03f4,0 0 25px #f0f403,0 0 50px #f403cc,0 0 100px #f403cc;
+} 
+
+
+
+
+
+
+
+
+@keyframes btn-anim1 {  
+    0% { left: 100%;}
+    50%,100%{left: 100%;}
+}  
+
+
+
+
+
+@keyframes btn-anim2 { 
+    0% { top: 100%;}
+    50%,100%{top: 100%;} 
+
+    
+} 
+
+ 
+
+@keyframes btn-anim3 { 
+    0% { right: 100%;} 
+    50%,100%{right: 100%;} 
+}  
+
+
+@keyframes btn-anim4{
+    0% { bottom: 100%;} 
+    50%,100%{bottom: 100%;} 
+}
