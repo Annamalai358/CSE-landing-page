@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+.nav{
+	text-align:left;
+}
+
+
 ol, ul {
 	list-style: none;
 }
